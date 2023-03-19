@@ -1,14 +1,12 @@
 # PythonArrayTransposer
-PythonArrayTransposer tool, without numpy/pandas
-
+Python List Array Transposer tool, without numpy/pandas
 
 ## How it works
 - Takes in an array
 - Understand the shape of the array (Rol, Col)
-- using a for loop, loop with output col then row
+- Using a "for" loop, iterate the array col first, then row
+- Append those into a "Array"/list for output
 
-## TODO
-1) create a class that takes in array
 
 ## Notes
 Im using this to learn about classes and how to integrate this into other code
